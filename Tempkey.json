@@ -4,6 +4,6 @@
     "username": "free",
     "password": "key",
     "expiresAt": "2025-08-12",
-    "allowOffline": true
+    "allowOffline": false
   },
 ]
