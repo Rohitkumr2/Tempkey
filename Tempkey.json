@@ -5,5 +5,12 @@
     "password": "freekey",
     "expiresAt": "2025-08-12",
     "allowOffline": false
+  }
+  {
+    "id": "e48b4b1096767b22",
+    "username": "1day",
+    "password": "freekey",
+    "expiresAt": "2025-08-14",
+    "allowOffline": false
   },
 ]
